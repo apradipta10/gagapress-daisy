@@ -1,13 +1,13 @@
 # Gagapress Daisy Theme
 
-Gagapress Daisy is a custom WordPress theme designed for WordPress developers, featuring articles on WordPress development and personal branding.
+Gagapress Daisy is a custom WordPress theme using Tailwind and Daisy UI.
 
 ## Installation
 
 1. **Download the Theme:**
    - Go to the [Gagapress Daisy repository](https://github.com/apradipta10/gagapress-daisy/tree/main).
    - Click on the green "Code" button.
-   - Select "Download ZIP".
+   - Select "[Download ZIP](https://github.com/apradipta10/gagapress-daisy/archive/refs/heads/main.zip)".
 
 2. **Upload Theme to WordPress:**
    - Log in to your WordPress admin dashboard.
@@ -18,7 +18,7 @@ Gagapress Daisy is a custom WordPress theme designed for WordPress developers, f
 
 ## Development
 
-For developers who want to contribute or customize the theme, follow these steps:
+For developers who want using this theme, follow these steps:
 
 1. **Clone the repository:**
    - Open your terminal.
@@ -50,4 +50,4 @@ For developers who want to contribute or customize the theme, follow these steps
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
